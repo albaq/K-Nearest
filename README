@@ -1,0 +1,6 @@
+Program that implements K Nearest algorithm, for COMP6771 at Concordia university.
+It consumes 2 files, one represents the images, the other the labels.
+Those files need to be read as indicated here:
+https://stackoverflow.com/questions/39580926/how-do-i-load-in-the-mnist-digits-and-label-data-in-matlab
+The dataset can be downloded from:
+http://www.itl.nist.gov/iaui/vip/cs_links/EMNIST/gzip.zip
